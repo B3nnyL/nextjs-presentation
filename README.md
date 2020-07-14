@@ -1,10 +1,10 @@
-# Next.js + Jest
+# Next.js presentation
 
 This example shows how to configure Jest to work with Next.js.
 
 This includes Next.js' built-in support for Global CSS, CSS Modules, and TypeScript!
 
-## How to Use
+## How to initialise a nextjs + jest project
 
 Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
 
@@ -19,3 +19,16 @@ npx create-next-app --example with-jest
 ```bash
 npm test
 ```
+
+## Run dev mode
+```bash
+npm run dev
+```
+
+and check your project at localhost:3000
+
+## Build
+```bash
+npm run build
+```
+
